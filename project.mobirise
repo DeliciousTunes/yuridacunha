@@ -34,7 +34,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-10-18_1216",
+    "name": "Yuri da Cunha",
     "versionFirst": "5.6.11",
     "siteFonts": [
       {
@@ -44,6 +44,16 @@
       }
     ],
     "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/af-logo-yc-2016-v2-128x91.png",
+    "mbrsiteDomain": "l89yaoqbj4",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 5,
     "versionPublish": "5.6.11"
   },
@@ -51,7 +61,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Yuri da Cunha - Official Website",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
